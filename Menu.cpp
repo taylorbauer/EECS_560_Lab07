@@ -1,3 +1,10 @@
+//
+//  Author: Taylor Bauer
+//  Date:   10.24.2019
+//          EECS 560
+//          Lab 07
+//
+
 #include "Menu.h"
 #include <iostream>
 using namespace std;
